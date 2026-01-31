@@ -1,7 +1,8 @@
+/*
+Copyright © 2026 NAME HERE <EMAIL ADDRESS>
+*/
 package main
 
-import "fmt"
-
 func main() {
-	fmt.Println("fortess-key CLI")
+	Execute()
 }
